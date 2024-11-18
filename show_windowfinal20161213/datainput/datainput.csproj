@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{176F8F0F-2EFC-411D-8752-4D266CB47F8A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>datainput</RootNamespace>
+    <AssemblyName>datainput</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BP.cs" />
+    <Compile Include="FrmAddTraindata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAddTraindata.Designer.cs">
+      <DependentUpon>FrmAddTraindata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmManageUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmManageUser.Designer.cs">
+      <DependentUpon>FrmManageUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPointManagebtnnotshow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPointManagebtnnotshow.designer.cs">
+      <DependentUpon>FrmPointManagebtnnotshow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPointSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPointSet.Designer.cs">
+      <DependentUpon>FrmPointSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmForecast.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmForecast.designer.cs">
+      <DependentUpon>FrmForecast.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPointManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPointManage.designer.cs">
+      <DependentUpon>FrmPointManage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTrain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTrain.Designer.cs">
+      <DependentUpon>FrmTrain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LongTimeWork.cs" />
+    <Compile Include="NamePointManage.cs" />
+    <Compile Include="Pre.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Train.cs" />
+    <Compile Include="TrainDataManage.cs" />
+    <Compile Include="TrainDataPoint.cs" />
+    <Compile Include="UserQuanxianManage.cs" />
+    <Compile Include="ViewNamePoint.cs" />
+    <Compile Include="ViewUserQuanxian.cs" />
+    <Compile Include="_Fitness.cs" />
+    <Compile Include="_Paticle.cs" />
+    <Compile Include="_Swarm.cs" />
+    <EmbeddedResource Include="FrmAddTraindata.resx">
+      <DependentUpon>FrmAddTraindata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmManageUser.resx">
+      <DependentUpon>FrmManageUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPointManagebtnnotshow.resx">
+      <DependentUpon>FrmPointManagebtnnotshow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPointSet.resx">
+      <DependentUpon>FrmPointSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmForecast.resx">
+      <DependentUpon>FrmForecast.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPointManage.resx">
+      <DependentUpon>FrmPointManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTrain.resx">
+      <DependentUpon>FrmTrain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AForge.Controls.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AForge.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="AForge.Neuro.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="BackgroundImage.png" />
+    <Content Include="data\actor1.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\actor2.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\actress1.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\actress2.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\director.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\producer.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\screenwriter.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\trainDatainput.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\trainDataoutput.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

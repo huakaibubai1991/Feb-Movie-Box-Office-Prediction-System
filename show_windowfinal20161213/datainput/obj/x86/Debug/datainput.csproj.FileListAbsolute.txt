@@ -1,0 +1,337 @@
+d:\用户目录\我的文档\visual studio 2010\Projects\datainput\datainput\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\用户目录\我的文档\visual studio 2010\Projects\datainput\datainput\obj\x86\Debug\datainput.Form1.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\datainput\datainput\obj\x86\Debug\datainput.Properties.Resources.resources
+d:\用户目录\我的文档\visual studio 2010\Projects\datainput\datainput\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\用户目录\我的文档\visual studio 2010\Projects\datainput\datainput\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\用户目录\我的文档\visual studio 2010\Projects\datainput\datainput\bin\Debug\datainput.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\datainput\datainput\bin\Debug\datainput.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\datainput\datainput\bin\Debug\DataManage.dll
+d:\用户目录\我的文档\visual studio 2010\Projects\datainput\datainput\bin\Debug\DataManage.pdb
+d:\用户目录\我的文档\visual studio 2010\Projects\datainput\datainput\obj\x86\Debug\datainput.exe
+d:\用户目录\我的文档\visual studio 2010\Projects\datainput\datainput\obj\x86\Debug\datainput.pdb
+D:\用户目录\我的文档\Visual Studio 2010\Projects\datainput\datainput\obj\x86\Debug\datainput.Form2.resources
+D:\用户目录\我的文档\Visual Studio 2010\Projects\datainput\datainput\obj\x86\Debug\Interop.MLApp.dll
+D:\用户目录\我的文档\Visual Studio 2010\Projects\datainput\datainput\obj\x86\Debug\datainput.csproj.ResolveComReference.cache
+D:\用户目录\我的文档\Visual Studio 2010\Projects\datainput\datainput\bin\Debug\Interop.MLApp.dll
+D:\用户目录\我的文档\Visual Studio 2010\Projects\datainput\datainput\bin\Debug\IrisSkin4.dll
+D:\用户目录\我的文档\Visual Studio 2010\Projects\datainput\datainput\obj\x86\Debug\datainput.Form3.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\datainput\datainput\obj\x86\Debug\Interop.MLApp.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\datainput\datainput\obj\x86\Debug\datainput.csproj.ResolveComReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\datainput\datainput\obj\x86\Debug\datainput.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\datainput\datainput\obj\x86\Debug\datainput.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\datainput\datainput\bin\Debug\datainput.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\datainput\datainput\bin\Debug\datainput.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\datainput\datainput\bin\Debug\DataManage.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\datainput\datainput\bin\Debug\DataManage.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\datainput\datainput\bin\Debug\Interop.MLApp.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\datainput\datainput\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\datainput\datainput\obj\x86\Debug\datainput.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\datainput\datainput\obj\x86\Debug\datainput.Form2.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\datainput\datainput\obj\x86\Debug\datainput.Form3.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\datainput\datainput\obj\x86\Debug\datainput.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\datainput\datainput\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\datainput\datainput\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\Interop.MLApp.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\datainput.csproj.ResolveComReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\datainput.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\datainput.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\bin\Debug\datainput.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\bin\Debug\datainput.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\bin\Debug\DataManage.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\bin\Debug\DataManage.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\bin\Debug\Interop.MLApp.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\datainput.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\datainput.Form2.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\datainput.Form3.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\datainput.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\login.Form4.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\datainput.Form5.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\datainput.Form6.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\datainput.Form7.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\datainput.Form8.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\datainput.Form9.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_window\datainput\obj\x86\Debug\datainput.Form10.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\Interop.MLApp.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.csproj.ResolveComReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\bin\Debug\datainput.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\bin\Debug\datainput.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\bin\Debug\DataManage.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\bin\Debug\DataManage.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\bin\Debug\Interop.MLApp.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.Form1.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.Form10.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.Form2.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.Form3.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\login.Form4.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.Form5.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.Form6.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.Form7.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.Form8.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.Form9.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\bin\Debug\AForge.Controls.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\bin\Debug\AForge.dll
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\show_windowfinal\datainput\bin\Debug\AForge.Neuro.dll
+D:\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.Properties.Resources.resources
+D:\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.csproj.GenerateResource.Cache
+D:\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmLogin.resources
+D:\Projects\show_windowfinal\datainput\bin\Debug\datainput.exe
+D:\Projects\show_windowfinal\datainput\bin\Debug\datainput.pdb
+D:\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.exe
+D:\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.pdb
+E:\Projects\show_windowfinal\datainput\bin\Debug\data\actor1.txt
+E:\Projects\show_windowfinal\datainput\bin\Debug\data\actor2.txt
+E:\Projects\show_windowfinal\datainput\bin\Debug\data\actress1.txt
+E:\Projects\show_windowfinal\datainput\bin\Debug\data\actress2.txt
+E:\Projects\show_windowfinal\datainput\bin\Debug\data\director.txt
+E:\Projects\show_windowfinal\datainput\bin\Debug\data\producer.txt
+E:\Projects\show_windowfinal\datainput\bin\Debug\data\screenwriter.txt
+E:\Projects\show_windowfinal\datainput\bin\Debug\datainput.exe
+E:\Projects\show_windowfinal\datainput\bin\Debug\datainput.pdb
+E:\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmLogin.resources
+E:\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmDataManage.resources
+E:\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.Properties.Resources.resources
+E:\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.csproj.GenerateResource.Cache
+E:\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.exe
+E:\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.pdb
+D:\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmPointManage.resources
+D:\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmPointSet.resources
+D:\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmForecast.resources
+D:\Projects\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmMain.resources
+D:\Projects\show_windowfinal\datainput\bin\Debug\AForge.Controls.dll
+D:\Projects\show_windowfinal\datainput\bin\Debug\AForge.dll
+D:\Projects\show_windowfinal\datainput\bin\Debug\AForge.Neuro.dll
+D:\Projects\show_windowfinal\datainput\bin\Debug\data\actor1.txt
+D:\Projects\show_windowfinal\datainput\bin\Debug\data\actor2.txt
+D:\Projects\show_windowfinal\datainput\bin\Debug\data\actress1.txt
+D:\Projects\show_windowfinal\datainput\bin\Debug\data\actress2.txt
+D:\Projects\show_windowfinal\datainput\bin\Debug\data\director.txt
+D:\Projects\show_windowfinal\datainput\bin\Debug\data\producer.txt
+D:\Projects\show_windowfinal\datainput\bin\Debug\data\screenwriter.txt
+D:\Projects\show_windowfinal\datainput\bin\Debug\data\trainDatainput.txt
+D:\Projects\show_windowfinal\datainput\bin\Debug\data\trainDataoutput.txt
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.exe
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.pdb
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\bin\Debug\AForge.Controls.dll
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\bin\Debug\AForge.dll
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\bin\Debug\AForge.Neuro.dll
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\bin\Debug\data\actor1.txt
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\bin\Debug\data\actor2.txt
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\bin\Debug\data\actress1.txt
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\bin\Debug\data\actress2.txt
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\bin\Debug\data\director.txt
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\bin\Debug\data\producer.txt
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\bin\Debug\data\screenwriter.txt
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\bin\Debug\data\trainDatainput.txt
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\bin\Debug\data\trainDataoutput.txt
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\bin\Debug\datainput.exe
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\bin\Debug\datainput.pdb
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmMain.resources
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmPointSet.resources
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmForecast.resources
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmLogin.resources
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmPointManage.resources
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.Properties.Resources.resources
+C:\Users\lenovo\Desktop\show_windowfinal大神20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.exe
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.pdb
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\bin\Debug\AForge.Controls.dll
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\bin\Debug\AForge.dll
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\bin\Debug\AForge.Neuro.dll
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\bin\Debug\data\actor1.txt
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\bin\Debug\data\actor2.txt
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\bin\Debug\data\actress1.txt
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\bin\Debug\data\actress2.txt
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\bin\Debug\data\director.txt
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\bin\Debug\data\producer.txt
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\bin\Debug\data\screenwriter.txt
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\bin\Debug\data\trainDatainput.txt
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\bin\Debug\data\trainDataoutput.txt
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\bin\Debug\datainput.exe
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\bin\Debug\datainput.pdb
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmMain.resources
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmPointSet.resources
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmForecast.resources
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmLogin.resources
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.FrmPointManage.resources
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.Properties.Resources.resources
+C:\Users\lenovo\Desktop\show_windowfinal20160927\show_windowfinal\datainput\obj\x86\Debug\datainput.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\obj\x86\Debug\datainput.exe
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\obj\x86\Debug\datainput.pdb
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\bin\Debug\AForge.Controls.dll
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\bin\Debug\AForge.dll
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\bin\Debug\AForge.Neuro.dll
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\bin\Debug\data\actor1.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\bin\Debug\data\actor2.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\bin\Debug\data\actress1.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\bin\Debug\data\actress2.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\bin\Debug\data\director.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\bin\Debug\data\producer.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\bin\Debug\data\screenwriter.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\bin\Debug\data\trainDatainput.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\bin\Debug\data\trainDataoutput.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\bin\Debug\datainput.exe
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\bin\Debug\datainput.pdb
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\obj\x86\Debug\datainput.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\obj\x86\Debug\datainput.FrmMain.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\obj\x86\Debug\datainput.FrmPointSet.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\obj\x86\Debug\datainput.FrmForecast.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\obj\x86\Debug\datainput.FrmLogin.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\obj\x86\Debug\datainput.FrmPointManage.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\obj\x86\Debug\datainput.Properties.Resources.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\obj\x86\Debug\datainput.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\obj\x86\Debug\datainput.FrmManageUser.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161008\datainput\obj\x86\Debug\datainput.FrmPointManagebtnnotshow.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\obj\x86\Debug\datainput.exe
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\obj\x86\Debug\datainput.pdb
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\bin\Debug\AForge.Controls.dll
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\bin\Debug\AForge.dll
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\bin\Debug\AForge.Neuro.dll
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\bin\Debug\data\actor1.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\bin\Debug\data\actor2.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\bin\Debug\data\actress1.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\bin\Debug\data\actress2.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\bin\Debug\data\director.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\bin\Debug\data\producer.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\bin\Debug\data\screenwriter.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\bin\Debug\data\trainDatainput.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\bin\Debug\data\trainDataoutput.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\bin\Debug\datainput.exe
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\bin\Debug\datainput.pdb
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\obj\x86\Debug\datainput.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\obj\x86\Debug\datainput.FrmMain.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\obj\x86\Debug\datainput.FrmManageUser.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\obj\x86\Debug\datainput.FrmPointManagebtnnotshow.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\obj\x86\Debug\datainput.FrmPointSet.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\obj\x86\Debug\datainput.FrmForecast.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\obj\x86\Debug\datainput.FrmLogin.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\obj\x86\Debug\datainput.FrmPointManage.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\obj\x86\Debug\datainput.Properties.Resources.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\obj\x86\Debug\datainput.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\show_windowfinal20161017\datainput\obj\x86\Debug\datainput.FrmTrain.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\obj\x86\Debug\datainput.exe
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\obj\x86\Debug\datainput.pdb
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\bin\Debug\AForge.Controls.dll
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\bin\Debug\AForge.dll
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\bin\Debug\AForge.Neuro.dll
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\bin\Debug\data\actor1.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\bin\Debug\data\actor2.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\bin\Debug\data\actress1.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\bin\Debug\data\actress2.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\bin\Debug\data\director.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\bin\Debug\data\producer.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\bin\Debug\data\screenwriter.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\bin\Debug\data\trainDatainput.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\bin\Debug\data\trainDataoutput.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\bin\Debug\datainput.exe
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\bin\Debug\datainput.pdb
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\obj\x86\Debug\datainput.FrmAddTraindata.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\obj\x86\Debug\datainput.FrmMain.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\obj\x86\Debug\datainput.FrmManageUser.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\obj\x86\Debug\datainput.FrmPointManagebtnnotshow.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\obj\x86\Debug\datainput.FrmPointSet.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\obj\x86\Debug\datainput.FrmForecast.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\obj\x86\Debug\datainput.FrmLogin.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\obj\x86\Debug\datainput.FrmPointManage.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\obj\x86\Debug\datainput.FrmTrain.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\obj\x86\Debug\datainput.Properties.Resources.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\obj\x86\Debug\datainput.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\show_windowfinal20161122\datainput\obj\x86\Debug\datainput.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.exe
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.pdb
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\bin\Debug\AForge.Controls.dll
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\bin\Debug\AForge.dll
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\bin\Debug\AForge.Neuro.dll
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\actor1.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\actor2.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\actress1.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\actress2.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\director.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\producer.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\screenwriter.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\trainDatainput.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\trainDataoutput.txt
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\bin\Debug\datainput.exe
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\bin\Debug\datainput.pdb
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmAddTraindata.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmMain.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmManageUser.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmPointManagebtnnotshow.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmPointSet.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmForecast.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmLogin.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmPointManage.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmTrain.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.Properties.Resources.resources
+C:\Users\lenovo\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.exe
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.pdb
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\bin\Debug\AForge.Controls.dll
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\bin\Debug\AForge.dll
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\bin\Debug\AForge.Neuro.dll
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\bin\Debug\data\actor1.txt
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\bin\Debug\data\actor2.txt
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\bin\Debug\data\actress1.txt
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\bin\Debug\data\actress2.txt
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\bin\Debug\data\director.txt
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\bin\Debug\data\producer.txt
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\bin\Debug\data\screenwriter.txt
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\bin\Debug\data\trainDatainput.txt
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\bin\Debug\data\trainDataoutput.txt
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\bin\Debug\datainput.exe
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\bin\Debug\datainput.pdb
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmAddTraindata.resources
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmMain.resources
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmManageUser.resources
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmPointManagebtnnotshow.resources
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmPointSet.resources
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmForecast.resources
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmLogin.resources
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmPointManage.resources
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmTrain.resources
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.Properties.Resources.resources
+C:\Users\lenovo\Desktop\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.csproj.GenerateResource.Cache
+C:\Users\zhaoxuefang\Desktop\毕业论文所需资料\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.exe
+C:\Users\zhaoxuefang\Desktop\毕业论文所需资料\基于神经网络的电影票房预测系统\所有showwindow\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.pdb
+C:\Users\zhaoxuefang\Desktop\毕业论文所需资料\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.exe
+C:\Users\zhaoxuefang\Desktop\毕业论文所需资料\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.pdb
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.exe
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.pdb
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\bin\Debug\AForge.Controls.dll
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\bin\Debug\AForge.dll
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\bin\Debug\AForge.Neuro.dll
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\actor1.txt
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\actor2.txt
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\actress1.txt
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\actress2.txt
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\director.txt
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\producer.txt
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\screenwriter.txt
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\trainDatainput.txt
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\bin\Debug\data\trainDataoutput.txt
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\bin\Debug\datainput.exe
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\bin\Debug\datainput.pdb
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.csprojResolveAssemblyReference.cache
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmAddTraindata.resources
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmMain.resources
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmManageUser.resources
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmPointManagebtnnotshow.resources
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmPointSet.resources
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmForecast.resources
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmLogin.resources
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmPointManage.resources
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.FrmTrain.resources
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.Properties.Resources.resources
+C:\Users\zhaoxuefang\Desktop\show_windowfinal20161213\datainput\obj\x86\Debug\datainput.csproj.GenerateResource.Cache

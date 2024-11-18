@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "Feb电影票房预测系统_2018", "Feb电影票房预测系统_2018\Feb电影票房预测系统_2018.isproj", "{0B9BFA7A-EB9D-436A-B372-BC3CC5574B80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Default = CD_ROM|Default
+		DVD-5|Default = DVD-5|Default
+		SingleImage|Default = SingleImage|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B9BFA7A-EB9D-436A-B372-BC3CC5574B80}.CD_ROM|Default.ActiveCfg = CD_ROM
+		{0B9BFA7A-EB9D-436A-B372-BC3CC5574B80}.CD_ROM|Default.Build.0 = CD_ROM
+		{0B9BFA7A-EB9D-436A-B372-BC3CC5574B80}.DVD-5|Default.ActiveCfg = DVD-5
+		{0B9BFA7A-EB9D-436A-B372-BC3CC5574B80}.DVD-5|Default.Build.0 = DVD-5
+		{0B9BFA7A-EB9D-436A-B372-BC3CC5574B80}.SingleImage|Default.ActiveCfg = SingleImage
+		{0B9BFA7A-EB9D-436A-B372-BC3CC5574B80}.SingleImage|Default.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
